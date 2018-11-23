@@ -9,7 +9,7 @@ using Microsoft.IdentityModel.Tokens;
 
 namespace AppAssociados.API.Controllers
 {
-    [Route("api/controller")]
+    [Route("api/[controller]")]
     public class UsuarioController : Controller
     {
         private readonly IUsuarioRepository repository;
@@ -23,7 +23,7 @@ namespace AppAssociados.API.Controllers
         {
             return this.repository.GetAll();
         }
-
+        
         [HttpGet("{id}")]
         public Usuario Get(int id)
         {
@@ -33,8 +33,21 @@ namespace AppAssociados.API.Controllers
         [HttpPost]
         public IActionResult Post([FromBody]Usuario usuario)
         {
-            this.repository.Create(usuario);
-            return Ok(usuario);
+            if(ModelState.IsValid)
+            {
+                this.repository.Create(usuario);
+                return Ok(usuario);
+            }else{
+                var erros = new List<string>();
+                foreach(var state in ModelState){
+                    foreach(var error in state.Value.Errors){
+                        erros.Add(error.ErrorMessage);
+                    }
+                }
+                return BadRequest(new{
+                    message = erros
+                });
+            }
         }
 
         [HttpPut]
@@ -65,12 +78,12 @@ namespace AppAssociados.API.Controllers
                 });
         }
         public string BuildToken(){
-            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("UsuarioLogin"));
+            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("UsuarioLoginTeste"));
             var creed = new SigningCredentials(key,SecurityAlgorithms.HmacSha256);
 
             var token = new JwtSecurityToken(
-                audience: "Usuario",
-                issuer: "Usuario",
+                audience: "user",
+                issuer: "user",
                 signingCredentials: creed
             );
             return new JwtSecurityTokenHandler().WriteToken(token);

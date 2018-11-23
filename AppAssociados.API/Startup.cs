@@ -38,9 +38,9 @@ namespace AppAssociados.API
                 ValidateAudience = true,
                 ValidateLifetime = false,
                 ValidateIssuerSigningKey = true,
-                ValidAudience = "Usuario",
-                ValidIssuer = "Usuario",
-                IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("UsuarioLogin"))
+                ValidAudience = "user",
+                ValidIssuer = "user",
+                IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("UsuarioLoginTeste"))
 
             });
 
