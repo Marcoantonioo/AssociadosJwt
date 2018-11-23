@@ -1,0 +1,76 @@
+C:\Users\Guilherme\Desktop\Workspace\lpc\atividades-lpc\AppAssociados\AppAssociados.API\bin\Debug\netcoreapp2.1\AppAssociados.API.deps.json
+C:\Users\Guilherme\Desktop\Workspace\lpc\atividades-lpc\AppAssociados\AppAssociados.API\bin\Debug\netcoreapp2.1\AppAssociados.API.runtimeconfig.json
+C:\Users\Guilherme\Desktop\Workspace\lpc\atividades-lpc\AppAssociados\AppAssociados.API\bin\Debug\netcoreapp2.1\AppAssociados.API.runtimeconfig.dev.json
+C:\Users\Guilherme\Desktop\Workspace\lpc\atividades-lpc\AppAssociados\AppAssociados.API\bin\Debug\netcoreapp2.1\AppAssociados.API.dll
+C:\Users\Guilherme\Desktop\Workspace\lpc\atividades-lpc\AppAssociados\AppAssociados.API\bin\Debug\netcoreapp2.1\AppAssociados.API.pdb
+C:\Users\Guilherme\Desktop\Workspace\lpc\atividades-lpc\AppAssociados\AppAssociados.API\bin\Debug\netcoreapp2.1\AppAssociados.Domain.dll
+C:\Users\Guilherme\Desktop\Workspace\lpc\atividades-lpc\AppAssociados\AppAssociados.API\bin\Debug\netcoreapp2.1\AppAssociados.Repositories.dll
+C:\Users\Guilherme\Desktop\Workspace\lpc\atividades-lpc\AppAssociados\AppAssociados.API\bin\Debug\netcoreapp2.1\AppAssociados.Repositories.pdb
+C:\Users\Guilherme\Desktop\Workspace\lpc\atividades-lpc\AppAssociados\AppAssociados.API\bin\Debug\netcoreapp2.1\AppAssociados.Domain.pdb
+C:\Users\Guilherme\Desktop\Workspace\lpc\atividades-lpc\AppAssociados\AppAssociados.API\obj\Debug\netcoreapp2.1\AppAssociados.API.csprojAssemblyReference.cache
+C:\Users\Guilherme\Desktop\Workspace\lpc\atividades-lpc\AppAssociados\AppAssociados.API\obj\Debug\netcoreapp2.1\AppAssociados.API.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\Workspace\lpc\atividades-lpc\AppAssociados\AppAssociados.API\obj\Debug\netcoreapp2.1\AppAssociados.API.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Desktop\Workspace\lpc\atividades-lpc\AppAssociados\AppAssociados.API\obj\Debug\netcoreapp2.1\AppAssociados.API.AssemblyInfo.cs
+C:\Users\Guilherme\Desktop\Workspace\lpc\atividades-lpc\AppAssociados\AppAssociados.API\obj\Debug\netcoreapp2.1\AppAssociados.API.csproj.CopyComplete
+C:\Users\Guilherme\Desktop\Workspace\lpc\atividades-lpc\AppAssociados\AppAssociados.API\obj\Debug\netcoreapp2.1\AppAssociados.API.dll
+C:\Users\Guilherme\Desktop\Workspace\lpc\atividades-lpc\AppAssociados\AppAssociados.API\obj\Debug\netcoreapp2.1\AppAssociados.API.pdb
+C:\Users\Guilherme\Desktop\Workspace\lpc\atividades-lpc\AppAssociados\AppAssociados.API\obj\Debug\netcoreapp2.1\AppAssociados.API.RazorAssemblyInfo.cache
+C:\Users\Guilherme\Desktop\Workspace\lpc\atividades-lpc\AppAssociados\AppAssociados.API\obj\Debug\netcoreapp2.1\AppAssociados.API.RazorAssemblyInfo.cs
+C:\Users\Guilherme\Desktop\Workspace\lpc\atividades-lpc\AppAssociados\AppAssociados.API\obj\Debug\netcoreapp2.1\AppAssociados.API.RazorTargetAssemblyInfo.cache
+C:\Users\marco\Desktop\LPC\atividades-lpc\AppAssociados\AppAssociados.API\bin\Debug\netcoreapp2.1\AppAssociados.API.deps.json
+C:\Users\marco\Desktop\LPC\atividades-lpc\AppAssociados\AppAssociados.API\bin\Debug\netcoreapp2.1\AppAssociados.API.runtimeconfig.json
+C:\Users\marco\Desktop\LPC\atividades-lpc\AppAssociados\AppAssociados.API\bin\Debug\netcoreapp2.1\AppAssociados.API.runtimeconfig.dev.json
+C:\Users\marco\Desktop\LPC\atividades-lpc\AppAssociados\AppAssociados.API\bin\Debug\netcoreapp2.1\AppAssociados.API.dll
+C:\Users\marco\Desktop\LPC\atividades-lpc\AppAssociados\AppAssociados.API\bin\Debug\netcoreapp2.1\AppAssociados.API.pdb
+C:\Users\marco\Desktop\LPC\atividades-lpc\AppAssociados\AppAssociados.API\bin\Debug\netcoreapp2.1\AppAssociados.Domain.dll
+C:\Users\marco\Desktop\LPC\atividades-lpc\AppAssociados\AppAssociados.API\bin\Debug\netcoreapp2.1\AppAssociados.Repositories.dll
+C:\Users\marco\Desktop\LPC\atividades-lpc\AppAssociados\AppAssociados.API\bin\Debug\netcoreapp2.1\AppAssociados.Repositories.pdb
+C:\Users\marco\Desktop\LPC\atividades-lpc\AppAssociados\AppAssociados.API\bin\Debug\netcoreapp2.1\AppAssociados.Domain.pdb
+C:\Users\marco\Desktop\LPC\atividades-lpc\AppAssociados\AppAssociados.API\obj\Debug\netcoreapp2.1\AppAssociados.API.csprojAssemblyReference.cache
+C:\Users\marco\Desktop\LPC\atividades-lpc\AppAssociados\AppAssociados.API\obj\Debug\netcoreapp2.1\AppAssociados.API.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\LPC\atividades-lpc\AppAssociados\AppAssociados.API\obj\Debug\netcoreapp2.1\AppAssociados.API.RazorAssemblyInfo.cache
+C:\Users\marco\Desktop\LPC\atividades-lpc\AppAssociados\AppAssociados.API\obj\Debug\netcoreapp2.1\AppAssociados.API.RazorAssemblyInfo.cs
+C:\Users\marco\Desktop\LPC\atividades-lpc\AppAssociados\AppAssociados.API\obj\Debug\netcoreapp2.1\AppAssociados.API.AssemblyInfoInputs.cache
+C:\Users\marco\Desktop\LPC\atividades-lpc\AppAssociados\AppAssociados.API\obj\Debug\netcoreapp2.1\AppAssociados.API.AssemblyInfo.cs
+C:\Users\marco\Desktop\LPC\atividades-lpc\AppAssociados\AppAssociados.API\obj\Debug\netcoreapp2.1\AppAssociados.API.RazorTargetAssemblyInfo.cache
+C:\Users\marco\Desktop\LPC\atividades-lpc\AppAssociados\AppAssociados.API\obj\Debug\netcoreapp2.1\AppAssociados.API.csproj.CopyComplete
+C:\Users\marco\Desktop\LPC\atividades-lpc\AppAssociados\AppAssociados.API\obj\Debug\netcoreapp2.1\AppAssociados.API.dll
+C:\Users\marco\Desktop\LPC\atividades-lpc\AppAssociados\AppAssociados.API\obj\Debug\netcoreapp2.1\AppAssociados.API.pdb
+C:\Users\marco\Desktop\AssociadosAPI\AppAssociados.API\bin\Debug\netcoreapp2.1\AppAssociados.API.deps.json
+C:\Users\marco\Desktop\AssociadosAPI\AppAssociados.API\bin\Debug\netcoreapp2.1\AppAssociados.API.runtimeconfig.json
+C:\Users\marco\Desktop\AssociadosAPI\AppAssociados.API\bin\Debug\netcoreapp2.1\AppAssociados.API.runtimeconfig.dev.json
+C:\Users\marco\Desktop\AssociadosAPI\AppAssociados.API\bin\Debug\netcoreapp2.1\AppAssociados.API.dll
+C:\Users\marco\Desktop\AssociadosAPI\AppAssociados.API\bin\Debug\netcoreapp2.1\AppAssociados.API.pdb
+C:\Users\marco\Desktop\AssociadosAPI\AppAssociados.API\bin\Debug\netcoreapp2.1\AppAssociados.Domain.dll
+C:\Users\marco\Desktop\AssociadosAPI\AppAssociados.API\bin\Debug\netcoreapp2.1\AppAssociados.Repositories.dll
+C:\Users\marco\Desktop\AssociadosAPI\AppAssociados.API\bin\Debug\netcoreapp2.1\AppAssociados.Repositories.pdb
+C:\Users\marco\Desktop\AssociadosAPI\AppAssociados.API\bin\Debug\netcoreapp2.1\AppAssociados.Domain.pdb
+C:\Users\marco\Desktop\AssociadosAPI\AppAssociados.API\obj\Debug\netcoreapp2.1\AppAssociados.API.csprojAssemblyReference.cache
+C:\Users\marco\Desktop\AssociadosAPI\AppAssociados.API\obj\Debug\netcoreapp2.1\AppAssociados.API.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\AssociadosAPI\AppAssociados.API\obj\Debug\netcoreapp2.1\AppAssociados.API.RazorAssemblyInfo.cache
+C:\Users\marco\Desktop\AssociadosAPI\AppAssociados.API\obj\Debug\netcoreapp2.1\AppAssociados.API.RazorAssemblyInfo.cs
+C:\Users\marco\Desktop\AssociadosAPI\AppAssociados.API\obj\Debug\netcoreapp2.1\AppAssociados.API.AssemblyInfoInputs.cache
+C:\Users\marco\Desktop\AssociadosAPI\AppAssociados.API\obj\Debug\netcoreapp2.1\AppAssociados.API.AssemblyInfo.cs
+C:\Users\marco\Desktop\AssociadosAPI\AppAssociados.API\obj\Debug\netcoreapp2.1\AppAssociados.API.RazorTargetAssemblyInfo.cache
+C:\Users\marco\Desktop\AssociadosAPI\AppAssociados.API\obj\Debug\netcoreapp2.1\AppAssociados.API.csproj.CopyComplete
+C:\Users\marco\Desktop\AssociadosAPI\AppAssociados.API\obj\Debug\netcoreapp2.1\AppAssociados.API.dll
+C:\Users\marco\Desktop\AssociadosAPI\AppAssociados.API\obj\Debug\netcoreapp2.1\AppAssociados.API.pdb
+C:\Comercial I - c# G2 PROVA MATERIAL\AssociadosAPI\AppAssociados.API\bin\Debug\netcoreapp2.1\AppAssociados.API.deps.json
+C:\Comercial I - c# G2 PROVA MATERIAL\AssociadosAPI\AppAssociados.API\bin\Debug\netcoreapp2.1\AppAssociados.API.runtimeconfig.json
+C:\Comercial I - c# G2 PROVA MATERIAL\AssociadosAPI\AppAssociados.API\bin\Debug\netcoreapp2.1\AppAssociados.API.runtimeconfig.dev.json
+C:\Comercial I - c# G2 PROVA MATERIAL\AssociadosAPI\AppAssociados.API\bin\Debug\netcoreapp2.1\AppAssociados.API.dll
+C:\Comercial I - c# G2 PROVA MATERIAL\AssociadosAPI\AppAssociados.API\bin\Debug\netcoreapp2.1\AppAssociados.API.pdb
+C:\Comercial I - c# G2 PROVA MATERIAL\AssociadosAPI\AppAssociados.API\bin\Debug\netcoreapp2.1\AppAssociados.Domain.dll
+C:\Comercial I - c# G2 PROVA MATERIAL\AssociadosAPI\AppAssociados.API\bin\Debug\netcoreapp2.1\AppAssociados.Repositories.dll
+C:\Comercial I - c# G2 PROVA MATERIAL\AssociadosAPI\AppAssociados.API\bin\Debug\netcoreapp2.1\AppAssociados.Repositories.pdb
+C:\Comercial I - c# G2 PROVA MATERIAL\AssociadosAPI\AppAssociados.API\bin\Debug\netcoreapp2.1\AppAssociados.Domain.pdb
+C:\Comercial I - c# G2 PROVA MATERIAL\AssociadosAPI\AppAssociados.API\obj\Debug\netcoreapp2.1\AppAssociados.API.csprojAssemblyReference.cache
+C:\Comercial I - c# G2 PROVA MATERIAL\AssociadosAPI\AppAssociados.API\obj\Debug\netcoreapp2.1\AppAssociados.API.csproj.CoreCompileInputs.cache
+C:\Comercial I - c# G2 PROVA MATERIAL\AssociadosAPI\AppAssociados.API\obj\Debug\netcoreapp2.1\AppAssociados.API.RazorAssemblyInfo.cache
+C:\Comercial I - c# G2 PROVA MATERIAL\AssociadosAPI\AppAssociados.API\obj\Debug\netcoreapp2.1\AppAssociados.API.RazorAssemblyInfo.cs
+C:\Comercial I - c# G2 PROVA MATERIAL\AssociadosAPI\AppAssociados.API\obj\Debug\netcoreapp2.1\AppAssociados.API.AssemblyInfoInputs.cache
+C:\Comercial I - c# G2 PROVA MATERIAL\AssociadosAPI\AppAssociados.API\obj\Debug\netcoreapp2.1\AppAssociados.API.AssemblyInfo.cs
+C:\Comercial I - c# G2 PROVA MATERIAL\AssociadosAPI\AppAssociados.API\obj\Debug\netcoreapp2.1\AppAssociados.API.RazorTargetAssemblyInfo.cache
+C:\Comercial I - c# G2 PROVA MATERIAL\AssociadosAPI\AppAssociados.API\obj\Debug\netcoreapp2.1\AppAssociados.API.csproj.CopyComplete
+C:\Comercial I - c# G2 PROVA MATERIAL\AssociadosAPI\AppAssociados.API\obj\Debug\netcoreapp2.1\AppAssociados.API.dll
+C:\Comercial I - c# G2 PROVA MATERIAL\AssociadosAPI\AppAssociados.API\obj\Debug\netcoreapp2.1\AppAssociados.API.pdb
