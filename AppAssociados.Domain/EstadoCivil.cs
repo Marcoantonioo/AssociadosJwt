@@ -1,4 +1,5 @@
 namespace AppAssociados.Domain
+
 {
     public class EstadoCivil
     {

@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using AppAssociados.API.DTO;
 using AppAssociados.Domain;
 using AppAssociados.Repositories.Interfaces;
 using Microsoft.AspNetCore.Mvc;
@@ -17,7 +18,7 @@ namespace AppAssociados.API.Controllers
         [HttpGet]
         public IEnumerable<Dependente> Get()
         {
-            return this.repository.GetAll();
+           return this.repository.GetAll();
         }
 
         [HttpGet("{id}")]

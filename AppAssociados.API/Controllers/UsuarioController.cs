@@ -1,6 +1,8 @@
 using System.Collections.Generic;
 using System.IdentityModel.Tokens.Jwt;
 using System.Text;
+using System.Threading.Tasks;
+using AppAssociados.API.DTO;
 using AppAssociados.Domain;
 using AppAssociados.Repositories.Interfaces;
 using Microsoft.AspNetCore.Authorization;
@@ -19,9 +21,20 @@ namespace AppAssociados.API.Controllers
         }
         [Authorize]
         [HttpGet]
-        public IEnumerable<Usuario> Get()
+        public IEnumerable<usuarioDTO> Get()
         {
-            return this.repository.GetAll();
+            var usuario =  this.repository.GetAll();
+            var usuarioDTO = new List<usuarioDTO>();
+                usuario.ForEach(user =>{
+                    usuarioDTO.Add(
+                        new usuarioDTO{
+                            id = user.id,
+                            nome = user.nome,
+                            user = user.user
+                        }
+                    );
+                });
+                return usuarioDTO;
         }
         
         [HttpGet("{id}")]
@@ -45,6 +58,7 @@ namespace AppAssociados.API.Controllers
                     }
                 }
                 return BadRequest(new{
+                    code = 401,
                     message = erros
                 });
             }

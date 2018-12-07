@@ -45,5 +45,6 @@ namespace AppAssociados.Repositories
             context.Entry(obj).State = EntityState.Modified;
             context.SaveChanges();
         }
+        
     }
 }
